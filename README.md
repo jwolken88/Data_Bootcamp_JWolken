@@ -1,4 +1,4 @@
 # Data_Bootcamp_JWolken
 
 
-This is a practice repository
+This is my repository for ECON-UB - 232
